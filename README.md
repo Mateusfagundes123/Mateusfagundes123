@@ -104,6 +104,24 @@ Sou estudante de Ciência da Computação na Universidade Federal da Fronteira S
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
 />
 
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Blade"
+    title="Blade"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+/>
+
 <br/>
 <br/>
 
